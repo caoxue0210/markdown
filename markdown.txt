@@ -38,3 +38,7 @@ Markdown是一种在网络上设置文本的方式。您可以控制文档的显
 
  http://github.com - automatic!
  [GitHub](http://github.com)
+
+    if（isAwesome）{
+      返回真
+    }
