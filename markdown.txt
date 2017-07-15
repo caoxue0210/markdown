@@ -42,3 +42,4 @@ Markdown是一种在网络上设置文本的方式。您可以控制文档的显
     if（isAwesome）{
       返回真
     }
+`var example = true`
