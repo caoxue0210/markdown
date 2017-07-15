@@ -1,37 +1,42 @@
-MarkdownÊÇÒ»ÖÖÔÚÍøÂçÉÏÉèÖÃÎÄ±¾µÄ·½Ê½¡£Äú¿ÉÒÔ¿ØÖÆÎÄµµµÄÏÔÊ¾; ¸ñÊ½»¯×ÖÌåÎª´ÖÌå»òĞ±Ìå£¬Ìí¼ÓÍ¼ÏñºÍ´´½¨ÁĞ±íÖ»ÊÇÎÒÃÇ¿ÉÒÔÊ¹ÓÃµÄÒ»Ğ©Markdown¡£´ó¶àÊıÇé¿öÏÂ£¬MarkdownÖ»ÊÇÆÕÍ¨ÎÄ±¾£¬ÆäÖĞ°üº¬ÉÙÊı·Ç×ÖÄ¸×Ö·û£¬Èç#»ò*¡£
-Í·
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
-ÖØµã
-*This text will be italic
-_This will also be italiv_
+Markdownæ˜¯ä¸€ç§åœ¨ç½‘ç»œä¸Šè®¾ç½®æ–‡æœ¬çš„æ–¹å¼ã€‚æ‚¨å¯ä»¥æ§åˆ¶æ–‡æ¡£çš„æ˜¾ç¤º; æ ¼å¼åŒ–å­—ä½“ä¸ºç²—ä½“æˆ–æ–œä½“ï¼Œæ·»åŠ å›¾åƒå’Œåˆ›å»ºåˆ—è¡¨åªæ˜¯æˆ‘ä»¬å¯ä»¥ä½¿ç”¨çš„ä¸€äº›Markdownã€‚å¤§å¤šæ•°æƒ…å†µä¸‹ï¼ŒMarkdownåªæ˜¯æ™®é€šæ–‡æœ¬ï¼Œå…¶ä¸­åŒ…å«å°‘æ•°éå­—æ¯å­—ç¬¦ï¼Œå¦‚#æˆ–*ã€‚
+å¤´
 
-**This text will be bold**
-__This will also be bold__
+ # This is an <h1> tag
+ ## This is an <h2> tag
+ ###### This is an <h6> tag
+ 
+é‡ç‚¹
 
-_You **can** combine them_
+ *This text will be italic
+ _This will also be italiv_
 
-Çåµ¥
-ÎŞĞò
-* Item 1
-* Item 2
-  *Item 2a
-  *Item 2b
+ **This text will be bold**
+ __This will also be bold__
 
-ÓĞĞò
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
+ _You **can** combine them_
 
-Í¼Æ¬
+æ¸…å•
+æ— åº
 
-![GitHub Logo](/image/logo.png)
-Format: ![Alt Text](url)
+ * Item 1
+ * Item 2
+   *Item 2a
+   *Item 2b
 
-Á´½Ó
+æœ‰åº
 
-http://github.com - automatic!
-[GitHub](http://github.com)
+ 1. Item 1
+ 1. Item 2
+ 1. Item 3
+    1. Item 3a
+    1. Item 3b
+
+å›¾ç‰‡
+
+ ![GitHub Logo](/image/logo.png)
+ Format: ![Alt Text](url)
+
+é“¾æ¥
+
+ http://github.com - automatic!
+ [GitHub](http://github.com)
