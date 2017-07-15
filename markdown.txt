@@ -1,0 +1,37 @@
+Markdown是一种在网络上设置文本的方式。您可以控制文档的显示; 格式化字体为粗体或斜体，添加图像和创建列表只是我们可以使用的一些Markdown。大多数情况下，Markdown只是普通文本，其中包含少数非字母字符，如#或*。
+头
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
+重点
+*This text will be italic
+_This will also be italiv_
+
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them_
+
+清单
+无序
+* Item 1
+* Item 2
+  *Item 2a
+  *Item 2b
+
+有序
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
+
+图片
+
+![GitHub Logo](/image/logo.png)
+Format: ![Alt Text](url)
+
+链接
+
+http://github.com - automatic!
+[GitHub](http://github.com)
