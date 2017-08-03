@@ -19,3 +19,4 @@ markdown语法测试
 >>>>二叉排序树
 
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
+![logo](https://github.com/caoxue0210/markdown/raw/master/Logo/logo.png)
